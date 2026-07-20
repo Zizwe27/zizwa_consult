@@ -147,7 +147,7 @@ export function About() {
 
                 <p className="text-text-secondary text-sm leading-relaxed">
                   Our founder has had the privilege of building enterprise systems at scale inside two of the world&apos;s
-                  largest technology companies, and is passionate aboutapplying that discipline to
+                  largest technology companies, and is passionate about applying that discipline to
                   the problems African businesses actually face.
                 </p>
 
